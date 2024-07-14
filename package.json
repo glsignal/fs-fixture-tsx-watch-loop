@@ -1,0 +1,17 @@
+{
+	"name": "fs-fixture-tsx-watch-repro",
+	"version": "0.0.0",
+	"scripts": {
+		"dev": "tsx watch --conditions=development tests"
+	},
+	"devDependencies": {
+		"fs-fixture": "^2.4.0",
+		"manten": "^1.3.0",
+		"tsx": "^4.15.6",
+		"typescript": "^5.4.5"
+	},
+	"packageManager": "pnpm@9.2.0",
+	"dependencies": {
+		"@types/node": "^20.14.10"
+	}
+}

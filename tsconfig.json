@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "es2022",
+		"lib": ["ES2015", "ESNext.Disposable"],
+		"moduleDetection": "force",
+
+		"module": "preserve",
+		"resolveJsonModule": true,
+		"allowJs": true,
+		"strict": true,
+		// "noUncheckedIndexedAccess": true,
+		"noImplicitOverride": true,
+		"noEmit": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+	}
+}
